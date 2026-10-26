@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+bus_stats_*.csv
+.vscode/
